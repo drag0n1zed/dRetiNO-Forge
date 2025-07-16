@@ -6,6 +6,7 @@ This mod disables Retina rendering, forcing the game to render at 25% of the nat
 
 ## Installation
 
+0.  Get Forge 1.20.1. (Not tested on higher versions or NeoForge, some versions MAY work)
 1.  Drop the JAR into your `mods` folder.
 2.  **Launch the game once.**
 3.  **Close the game.**
