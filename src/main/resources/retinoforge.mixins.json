@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.drag0n1zed.retinoforge.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "retinoforge.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "WindowHintsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

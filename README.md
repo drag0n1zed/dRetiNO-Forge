@@ -1,0 +1,16 @@
+# dRetiNO-Forge
+
+A simple, essential FPS-boosting mod for Minecraft Forge on macOS.
+
+This mod disables Retina rendering, forcing the game to render at 25% of the native pixel amount. This dramatically improves performance on all retina-enabled macOS systems.
+
+## Installation
+
+1.  Drop the JAR into your `mods` folder.
+2.  **Launch the game once.**
+3.  **Close the game.**
+4.  Relaunch and enjoy your higher FPS!
+
+> **Why the restart?** The mod automatically patches a config file on the first run. The fix is active on the second run and all future launches.
+
+This is a client-side mod.
