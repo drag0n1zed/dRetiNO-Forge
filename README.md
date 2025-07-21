@@ -1,3 +1,4 @@
+# Archived because [RenderScale](https://modrinth.com/mod/renderscale) does what this does but 10x better and with more features
 # dRetiNO-Forge
 
 A simple, essential FPS-boosting mod for Minecraft Forge on macOS.
